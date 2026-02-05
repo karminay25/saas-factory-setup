@@ -67,3 +67,12 @@ tmpclaude*
 node_modules
 .env.local
 tsconfig.tsbuildinfo
+
+# Next.js
+.next
+node_modules
+
+# Archivos locales
+src.zip
+.snapshots
+next-env.d.ts
